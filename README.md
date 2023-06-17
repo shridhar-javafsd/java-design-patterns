@@ -1,2 +1,2 @@
 # java-design-patterns
- Java design patterns demos 
+ Java design patterms demos
